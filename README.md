@@ -1,4 +1,4 @@
-# Corrigindo o Código>
+# Corrigindo o Código
 
  <p align="center">
       <img alt="Desafio Ignite" title="Desafio Ignite" src="src/assets/desafio-ignite.jpg" />
